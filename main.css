@@ -6,6 +6,6 @@ div {
     padding: 10px 0px;
 }
 
-div #one, #three  {
+div.one, .three  {
     background-color: brown;
 }
