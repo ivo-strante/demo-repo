@@ -1,15 +1,7 @@
 div {
     color: black;
+    font-size: 16px;
     background-color: yellowgreen;
     width: 220 px;
     text-align: center;
-    padding: 25px;
-}
-
-div.one, .three, .five  {
-    background-color: brown;
-}
-
-div.two, .four, .six {
-    background-color: antiquewhite;
 }
