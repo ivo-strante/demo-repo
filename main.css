@@ -1,11 +1,15 @@
 div {
-    color: blueviolet;
+    color: black;
     background-color: bisque;
     width: 200px;
     text-align: center;
-    padding: 10px 0px;
+    padding: 10px 10px;
 }
 
-div.one, .three  {
+div.one, .three, .five  {
     background-color: brown;
+}
+
+div.two, .four, .six {
+    background-color: antiquewhite;
 }
