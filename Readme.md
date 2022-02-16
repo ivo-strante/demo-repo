@@ -1,6 +1,4 @@
-# Demo
+# CSS Grid mācību projekts
 
-Šeit vēlviens papildinājums
+Šis projekts veidots klausoties CSS Grid kursu
 
-Papildinājums
-##Papildinā∆ums 
