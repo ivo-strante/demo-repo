@@ -3,4 +3,6 @@ div {
     background-color: bisque;
     width: 200px;
     text-align: center;
+    margin: 3px;
+    padding: 5px;
 }
